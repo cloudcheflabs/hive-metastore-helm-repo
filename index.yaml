@@ -3,20 +3,20 @@ entries:
   dataroaster-hivemetastore:
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2023-04-06T06:54:13.890063737Z"
+    created: "2023-04-06T07:09:55.705980184Z"
     description: dataroaster hivemetastore.
-    digest: d387b5dd1d20e255dccb3b6a7b9c74900f922e9666498f96e8711d5e39addacb
+    digest: b641a96685f533368a8bc324efb996ba6c06dfa120e0e5ab9f37e7c6b8cee19c
     name: dataroaster-hivemetastore
     urls:
     - dataroaster-hivemetastore-v2.1.0.tgz
     version: v2.1.0
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2023-04-06T06:54:13.889890409Z"
+    created: "2023-04-06T07:09:55.705805223Z"
     description: dataroaster hivemetastore.
     digest: f242efdbc2543ed278686ad4b15b6d3c26d671eac6f69f0c793f3ecc542a6e49
     name: dataroaster-hivemetastore
     urls:
     - dataroaster-hivemetastore-v2.0.0.tgz
     version: v2.0.0
-generated: "2023-04-06T06:54:13.889592044Z"
+generated: "2023-04-06T07:09:55.705472192Z"
