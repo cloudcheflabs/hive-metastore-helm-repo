@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  dataroaster-hivemetastore:
+  - apiVersion: v2
+    appVersion: v3.3.5
+    created: "2023-05-14T11:44:42.886612511Z"
+    description: dataroaster hivemetastore.
+    digest: 2c9f465b6ec966d81ad090db33d5a4b48252c97ce8652e8c93f7a310bc0d579e
+    name: dataroaster-hivemetastore
+    urls:
+    - dataroaster-hivemetastore-v2.2.0.tgz
+    version: v2.2.0
+generated: "2023-05-14T11:44:42.88628338Z"
